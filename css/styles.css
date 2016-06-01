@@ -1,0 +1,112 @@
+
+
+body {
+  background-color: black;
+}
+.container {
+  padding-bottom: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("../img/MK-64.jpg");
+}
+
+select {
+  margin-top: 35px;
+}
+
+form {
+  
+  padding: 15px;
+  background-color: white;
+  border-width: 2px;
+  border-radius: 20px;
+}
+
+/* Racer Select */
+
+#racer-display {
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.mario {
+  background-image: url("../img/mario.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.luigi {
+  background-image: url("../img/Luigi.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.yoshi {
+  background-image: url("../img/Yoshi_2.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bowser {
+  background-image: url("../img/Bowser.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wario {
+  background-image: url("../img/Wario.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.toad {
+  background-image: url("../img/Toad.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/* Course Select */
+
+#course-display {
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.toad-turnpike {
+  background-image: url("../img/toads-turnpike.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wario-stadium {
+  background-image: url("../img/wario-stadium.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bowser-castle {
+  background-image: url("../img/bowser-castle.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rainbow-road {
+  background-image: url("../img/rainbow-road.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moomoo-farm {
+  background-image: url("../img/MooMooFarm.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
